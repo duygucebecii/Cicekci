@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\services\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:services\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|c:\\users\\monsterpc\\desktop\\aspnet dersleri\\cicekci\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B339887B-715F-418F-88DD-EA25B27EA2F7}|Cicekci.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Services\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "Services\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Services\\IFlowerService.cs",
+              "RelativeToolTip": "Services\\IFlowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:04:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:02:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:50:05.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:45:33.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\Flower.cs",
+              "RelativeDocumentMoniker": "Models\\Flower.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\Flower.cs",
+              "RelativeToolTip": "Models\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:35:14.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:26:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T09:55:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Models\\Context.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\Context.cs",
+              "RelativeToolTip": "Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:35:12.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:35:05.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Services\\FlowerService.cs",
+              "RelativeToolTip": "Services\\FlowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:00:45.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:04:58.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T09:59:25.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T09:54:51.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T17:39:59.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\aspnet dersleri\\Cicekci\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:35:13.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

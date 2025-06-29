@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Sepetim";
+}
+
+@model List<CartItem>
+
+<h2>Sepetiniz</h2>
+
+@if (!Model.Any())
+{
+    <p>Sepetiniz Boş</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Çiçek</th>
+                <th>Resim</th>
+                <th>Adet</th>
+                <th>Birim Fiyat</th>
+                <th>Toplam Fiyat</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.flower_.Name</td>
+                    <td><img src="@item.flower_.ImageUrl" style="height:50px" /> </td>
+                    <td>@item.Quantity
+                        
+                        <form asp-action="UrunMiktariArttir" method="post">
+                            <input type="hidden" name="FlowerId" value="@item.flower_.Id" />
+                            <button type="submit" class="btn btn-success">+</button>
+                        </form>
+                        @* <form asp-action="UrunMiktariAzalt" method="post">
+                            <input type="hidden" name="FlowerId" value="@item.flower_.Id" />
+                            <button type="submit" class="btn btn-danger">-</button>
+                        </form> *@
+
+                        <a href="../Home/UrunMiktariAzalt?FlowerId=@item.flower_.Id" class="btn btn-danger">-</a>
+
+                    </td>
+                    <td>@item.flower_.Price.ToString("C")</td>
+                    <td>@(@item.flower_.Price * @item.Quantity)</td>
+                    <td>
+                        <form asp-action="SepettenCikar" method="post">
+                            <input type="hidden" name="FlowerId" value="@item.flower_.Id" />
+                            <button type="submit" class="btn btn-danger">Sepetten Çıkar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Index">Alışverişe Devam Et</a>
